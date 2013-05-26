@@ -13,7 +13,7 @@ import numpy as np
 import random
 import pylab as pl
 
-import mathlib
+import sys
 
 ## implementation of quickhull algorithm based on
 ## The Quickhull algorithm for Convex Hulls
