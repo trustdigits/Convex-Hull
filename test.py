@@ -1,8 +1,5 @@
 import unittest
-
-
 import pylab as pl
-
 import geometry
 import numpy as np
 
