@@ -12,7 +12,6 @@ import operator
 import numpy as np
 import random
 import pylab as pl
-
 import sys
 
 ## implementation of quickhull algorithm based on
